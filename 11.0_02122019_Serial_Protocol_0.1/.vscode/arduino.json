@@ -1,0 +1,6 @@
+{
+    "sketch": "11.0_02122019_Serial_Protocol_0.1.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM6",
+    "programmer": "AVR ISP"
+}

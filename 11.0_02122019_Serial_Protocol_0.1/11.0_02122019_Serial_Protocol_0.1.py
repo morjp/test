@@ -73,7 +73,7 @@ print(returns)
 time.sleep(5)
 
 #returns NACK, because minimum value for command 0 is 5
-print("Command: 0   Value: 4")#
+print("Command: 0   Value: 4")
 returns = sendPacket(0, 4)
 print(returns)
 time.sleep(5)
